@@ -27,3 +27,10 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+# Le Wagon colleagues' functions
+git+https://github.com/domzae/muchwow
+git+https://github.com/freichel/tstprjctflo
+git+https://github.com/g-wagen/myproject
+git+https://github.com/jjjaan/jan_proudly_presents
+git+https://github.com/WolfSchew/collatz_problem
